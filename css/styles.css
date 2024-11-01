@@ -81,13 +81,13 @@ h1, h2, h3, h4, h5, h6, #home .heading strong {
 	border: none;
 	padding: 22px 4px;
 	outline: none;
-	color: #5A5A5A;
+	color: #e45107;
 	margin: 0;
 	width: 210px;
 	max-width: 100%;
 	display: block;
 	margin-bottom: 20px;
-	background: rgba(245, 242, 237, 0.2);
+	background: rgb(245, 242, 237);
 	font-size: inherit;
 	border-radius: 0px !important;
 	width: 99%;
